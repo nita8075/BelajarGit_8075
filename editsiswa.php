@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <?php
 
 // komentar dari client 
 //###################
+=======
+<?php 
+
+// komentar dari server
+// *****************
+>>>>>>> 7a07865349e126ba7e208573497c95cce1ffe9d8
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
